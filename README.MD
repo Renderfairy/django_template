@@ -5,3 +5,4 @@
 - PoC - proof of concept - shows if app is needed
 - MVP - minimum value product
 - Product 
+- yaml - yet another markup language
