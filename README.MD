@@ -4,6 +4,7 @@
 
 1. Environment variables
 2. Staticfiles
+3. Media
 
 
 ### Dictionary
