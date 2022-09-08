@@ -30,9 +30,6 @@ SECRET_KEY = os.environ.get('DJ_SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = int(os.environ.get('DJ_DEBUG', False))
-print('-' *20)
-print(DEBUG)
-print('-' *20)
 
 ALLOWED_HOSTS = os.environ.get('DJ_ALLOWED_HOSTS', '').split()
 
